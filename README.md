@@ -41,3 +41,7 @@ docker-compose up -d
 # stop containers with docker-compose
 
 docker-compose down
+
+# list running containers with docker-compose
+
+docker-compose ps
